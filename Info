@@ -1,0 +1,21 @@
+runfile('D:/IMPORTANT/MASTERS/BAHRIA UNIV/Spring2023 Semester/Assigments/TDS/Distance_Measurement/code.py', wdir='D:/IMPORTANT/MASTERS/BAHRIA UNIV/Spring2023 Semester/Assigments/TDS/Distance_Measurement')
+Euclidean by Formula..........= 6.082762530298219
+Euclidean by Scipy............= 6.082762530298219
+Manhattan by Formula.........= 13
+Manhattan by Scipy...........= 13
+Minkowski by Formula, p is 1 = 13.0
+Minkowski by Scipy ,  p is 1 = 13.0
+Minkowski by Formula, p is 2 = 6.082762530298219
+Minkowski by Scipy   ,p is 2 = 6.082762530298219
+Minkowski by Formula, p is 3 = 4.862944131094279
+Minkowski by Scipy   ,p is 3 = 4.862944131094279
+chebyshev by Formula........ = 4
+chebyshev by Scipy.......... = 4
+____ Note dataset for hamming is changed___
+Haming by Formula............= 0.3333333333333333
+Haming by Scipy..............= 0.3333333333333333
+____ Note dataset for cosine similarity is changed___
+Cosine by Formula............= 0.9746318461970762
+Cosine by Scipy..............= [[0.97463185]]
+____ Note dataset for Jaccard Distance is changed___
+Jaccard by Formula...........= 0.6666666
